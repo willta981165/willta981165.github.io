@@ -12,7 +12,7 @@ pygmentsStyle = "monokai"
 [params]
   footer = "The Explorer"
   description = "Hey, this is my personal website where can let you know me more."
-  avatarURL = "/images/avatar.webp"
+  avatarURL = "/images/avatar.jpg"
   AvatarAltText = "avatar"
   avatarSize = "size-m"
   ShowBackToTopButton = true # true or false for "back to top" button on posts
@@ -46,7 +46,7 @@ pygmentsStyle = "monokai"
   [[menu.main]]
     name = "About"
     pre = "<span data-feather='book'></span>"
-    url = "/About/"
+    url = "/about/"
     weight = 2
 
   [[menu.main]]
