@@ -1,5 +1,5 @@
 baseURL = "https://www.google.com/"
-title = "Willta"
+title = "Hey , I'm Willta"
 theme = "gokarna"
 languageCode = "en"
 defaultContentLanguage = "en"
@@ -11,7 +11,7 @@ pygmentsStyle = "monokai"
 
 [params]
   footer = "The Explorer"
-  description = "Hey, this is my personal website where can let you know me more."
+  description = "Don't make simple things complicated!!"
   avatarURL = "/images/avatar.webp"
   AvatarAltText = "avatar"
   avatarSize = "size-m"
