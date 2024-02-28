@@ -6,6 +6,7 @@ draft: false
 ---
 ### Who I am?
 1. 吉伊卡哇 addicter
+2. You are nothing
 ![](images/hugry.webp)
-2. alcohol addicter
+3. alcohol addicter
 ![](images/drink.jpg)
