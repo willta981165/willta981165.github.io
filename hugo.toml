@@ -11,9 +11,9 @@ pygmentsStyle = "monokai"
 
 [params]
   footer = "The Explorer"
-  description = "Don't make simple things complicated!!"
-  avatarURL = "/images/avatar.jpg"
-  AvatarAltText = "avatar"
+  description = "Don’t Make Things Complicated!!"
+  avatarURL = "/images/rabbit.jpg"
+  AvatarAltText = "rabbit"
   avatarSize = "size-m"
   ShowBackToTopButton = true # true or false for "back to top" button on posts
   customHeadHTML = """
