@@ -1,5 +1,5 @@
 baseURL = "https://willta981165.github.io/"
-title = "Hey , I'm Willta"
+title = "Hey, I'm Willta"
 theme = "gokarna"
 languageCode = "en"
 defaultContentLanguage = "en"
@@ -11,7 +11,7 @@ pygmentsStyle = "monokai"
 
 [params]
   footer = "The Explorer"
-  description = "Don’t Make Things Complicated!!"
+  description = "Keep things simple!"
   avatarURL = "/images/rabbit.jpg"
   AvatarAltText = "rabbit"
   avatarSize = "size-m"
@@ -58,7 +58,7 @@ pygmentsStyle = "monokai"
   [[menu.main]]
     identifier = "github"
     pre = "<span data-feather='github'></span>"
-    url = "https://github.com/526avijitgupta/gokarna"
+    url = "https://github.com/willta981165/willta981165.github.io"
     weight = 5
 
 [markup]
