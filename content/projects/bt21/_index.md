@@ -7,8 +7,8 @@ draft: false
 
 ![](images/photo.jpg)  
 
-[網站Demo](https://willta98.github.io/BT21-Demo/dist/#/)  
-[Git](https://github.com/Willta98/BT21-Demo)
+[網站Demo](https://willta981165.github.io/BT21-Demo-master/#/)  
+[Git](https://github.com/willta981165/BT21-Demo-master)
 
 描述:  
 此專案是使用HTML5、CSS和JavaScript搭配Vue.js框架製作的。為了提升網站的外觀和使用者體驗，採用了Bootstrap來設計網站的屬性和版面配置。同時，為了確保在不同裝置上的流暢瀏覽，採用了RWD（響應式設計），使網頁內容能夠根據訪問者的裝置大小自動調整排列和顯示方式。  
